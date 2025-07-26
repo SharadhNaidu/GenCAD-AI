@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=GenCAD AI
+Comment=Generate 3D CAD Models from Text Prompts using AI
+Exec=/home/baymax/Desktop/Gen CAD AI/launch.sh
+Icon=applications-engineering
+Terminal=false
+Categories=Graphics;Engineering;
+StartupNotify=true
+Keywords=CAD;3D;AI;FreeCAD;Model;Design;
