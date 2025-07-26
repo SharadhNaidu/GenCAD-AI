@@ -18,8 +18,8 @@ import atexit
 from datetime import datetime
 
 # Constants
-GEMINI_API_KEY = "AIzaSyCMU6n2ZHgJc-GmD7VWEyi3xnwyaml2t1c"  # Updated API key
-GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
+GEMINI_API_KEY =   # Updated API key
+GEMINI_API_URL = 
 FREECAD_COMMAND = "freecad"  # Assumes 'freecad' is in PATH
 
 class GenCADApp(tk.Tk):
